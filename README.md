@@ -53,6 +53,9 @@ timeline
 - **Security Research**: Vulnerability analysis, OSINT automation, and threat intelligence
 - **Global Product Strategy and Implementation**: Over two decades of experience in global product development and implementation in numerous countries, and diverse industries.
 
+## Publications
+- **The Minimalist's Index** (https://medium.com/@wall-d/the-minimalists-index-a116d64ad1e6)
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wall-D&show_icons=true&theme=dark)
