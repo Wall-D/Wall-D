@@ -30,9 +30,11 @@ timeline
               : Chatbot Frameworks (RASA)
               : Graph databases and non-traditional databases
     
-    2019-2025 : Flutter/Dart/Mojo
+    2019-2026 : Agentic FFP Stack
               : Security tools and OSINT automation
-              : Edge systems and AI
+              : Edge & Decentralized AI systems
+              : Reticulum Network
+
         
 
 ```
