@@ -49,7 +49,7 @@ timeline
 
 ## 🌟 Skills and Expertise
 
-- **Technical Leadership**: Executive technical leaders in R&D and strategic planning
+- **Technical Leadership**: Executive technical leader in R&D and strategic planning
 - **Fullstack AI Platform Developer**: Building end-to-end AI solutions from data ingestion to deployment
 - **Data Wayfinding**: Identifying unconventional data sources to solve complex problems
 - **Security Research**: Vulnerability analysis, OSINT automation, and threat intelligence
